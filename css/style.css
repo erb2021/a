@@ -462,7 +462,7 @@ footer {
     }
 
     .button {
-        left: 100px;
+        left: 90px;
         top: 1200px;
     }
 }
@@ -471,13 +471,9 @@ footer {
     .historia {
         position: relative;
         width: 385px;
-        left: 10px;
+        left: -12px;
         padding: 0;
         margin-top: 20px;
-    }
-    
-    .htxt {
-        width: 800px;
     }
 
 }
