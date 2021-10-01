@@ -416,7 +416,7 @@ footer {
 
     .htxt {
         width: 200%;
-        left: 0px;
+        left: -10px;
     }
 
     .ball {
@@ -462,7 +462,7 @@ footer {
     }
 
     .button {
-        left: 145px;
+        left: 100px;
         top: 1200px;
     }
 }
@@ -480,8 +480,4 @@ footer {
         width: 800px;
     }
 
-    .ball {
-        top: 1300px;
-        left: -720px;
-    }
 }
