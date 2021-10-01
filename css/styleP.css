@@ -195,7 +195,7 @@ h2::before  {
 
 .project img {
     padding-top: 20px;
-    width: 100%;
+    width: 110%;
     height: 100%;
     transition: .4s linear;
     box-shadow: 5px, 5px, 5px rgba(0, 0, 0, 0.425);
@@ -234,11 +234,6 @@ h2::before  {
     opacity: 1;
     transform: scale(1);
 }
-
-
-
-
-
 
 section.formacad {
     display: flex;
@@ -375,7 +370,7 @@ footer {
     }
 
     .acad {
-        width: calc(40% - 20px);
+        width: calc(80% - 20px);
     }
     
     #home h1 {
@@ -385,8 +380,9 @@ footer {
     }
 
     .project {
-        width: calc(40% -10px);
+        width: calc(80% -10px);
     }
+
     .call i {
         width: calc(40% -10px);
     }
@@ -423,7 +419,6 @@ footer {
 
     .project {
         width: 100%;
-        background-color: blue;
     }
 
     .call i{
