@@ -114,6 +114,10 @@
     color: rgb(0, 0, 0);
 }
 
+.by {
+    color: #50dcff60;
+}
+
 /* Nav Section */
 
 #home {
@@ -474,6 +478,31 @@ footer {
         left: -12px;
         padding: 0;
         margin-top: 20px;
+    }
+
+    .logo {
+        width: 55px;
+        position: absolute;
+        left: 10px;
+        top: 20px;
+    }
+
+    .line {
+        background-color: #ffffff;
+        width: 50px;
+        height: 2.5px;
+        position: absolute;
+        left: 20px;
+        top: 90px;
+    }
+    
+    .line2 {
+        background-color: #ffffff;
+        width: 25px;
+        height: 2.5px;
+        position: absolute;
+        left: 20px;
+        top: 100px;
     }
 
 }

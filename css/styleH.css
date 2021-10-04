@@ -531,4 +531,14 @@ footer {
         height: 75px;
         width: 75px;
     }
+
+    .background {
+        width: 100%;
+        margin: 0px 0px 0px -30px;
+    }
+
+    .background2 {
+        width: 100%;
+        margin: 0px 0px 0px -30px;
+    }
 }
